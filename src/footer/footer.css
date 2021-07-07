@@ -1,0 +1,213 @@
+.footer{
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    background-color: #343434;
+}
+.footer1{
+    position: relative;
+    display: flex;
+    height: 77vh;
+    border-bottom: 1px solid #ffffff;
+}
+.letstalk_div{
+    position: relative;
+    width: 100vw;
+    flex-direction: column;
+    flex: 1;
+}
+.letstalk_text{
+    position: relative;
+    font-family: Bely;
+    font-size: 7vw;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: .87;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+    flex: 0.8;
+    text-align: left;
+    display: flex;
+    justify-content: center;
+
+}
+.create_better_version{
+    position: relative;
+    font-family: Inter;
+    font-size: 1.4vw;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    left: 18vw;
+    width: 20vw;
+    margin-top: -10vh;
+}
+
+.footer_form{
+    position: relative;
+    flex: 1;
+}
+
+.footer_form_css{
+    position: relative;
+    top: 8vh;
+    left: 5vw;
+    width: 30vw;
+    height: 65vh;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+.name_and_phone_footer{
+    position: relative;
+    height: 8vh;
+    background: none;
+    border: none;
+    border-bottom: 1px solid #ffffff;
+    font-family: Belgrano;
+    font-size: 1.6vw;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.86;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+    padding-left: 1vw;
+    outline: none;
+    margin-bottom: 2vw;
+}
+.name_and_phone_footer::placeholder{
+    color: #ffffff;
+}
+.message_footer{
+    position: relative;
+    height: 22vh;
+    background: none;
+    border: 1px solid #ffffff;
+    font-family: Belgrano;
+    font-size: 1.6vw;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.86;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+    padding-left: 1vw;
+    border-radius: .5vw;
+}
+.message_footer::placeholder{
+    color: #ffffff;
+}
+
+.submit_footer{
+    position: relative;
+    width: 10vw;
+    margin-top: 5vh;
+    height: 7vh;
+    border-radius: .5vw;
+    background: none;
+    font-family: Bely;
+    font-size: 1.4vw;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+    border: 1px solid #ffffff;
+}
+
+.social_links_footer{
+    position: relative;
+    text-align: center;
+    top: 3vh;
+    display: flex;
+    justify-content: space-evenly;
+    width: 60vw;
+    left: 22vw;
+    margin-bottom: 2vh;
+}
+.buttons_footer{
+    position: relative;
+    font-family: Bely;
+    font-size: 1.8vw;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.56;
+    letter-spacing: normal;
+    text-align: center;
+    color: #717171;
+    background: none;
+    width: 15vw;
+    text-align: center;
+    outline: none;
+    border: none;
+}
+
+.footer_end{
+    position: relative;
+    display: flex;
+    width: 100vw;
+    top: 5vh;
+    height: 13vh;
+    background-color: #292929;
+}
+.legalterms_footer{
+    position: relative;
+    flex: 1;
+    display: flex;
+}
+.privacy_policy_text{
+    position: relative;
+    font-family: Inter;
+    font-size: 1.2vw;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 3.33;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+    left: 5vw;
+}
+.terms_of_use{
+    position: relative;
+    font-family: Inter;
+    font-size: 1.2vw;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 3.33;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+    left: 10vw;
+}
+.companyname_footer_div{
+    position: relative;
+    flex: 1;
+    text-align: center;
+}
+.companyname_footer{
+    position: relative;
+    font-family: Inter;
+    font-size: 1.2vw;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 3.33;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+}

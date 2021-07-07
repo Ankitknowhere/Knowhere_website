@@ -1,0 +1,106 @@
+.homepage_ui_ux{
+    position: relative;
+    width: 100vw;
+    height: 180vh;
+}
+.ui_ux{
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    background: #4e5f61;  
+    display: flex; 
+}
+
+.ui_ux_texts{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    font-family: BelyDisplay;
+    font-size: 3vw;
+    font-weight: bolder;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.93;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+    left: 8vw;
+    top: 10vh;
+    flex: 0.8;
+}
+.ui_ux_img{
+    position: relative;
+    flex: 0.8;
+    font-family: Inter;
+    font-size: 1.3vw;
+    font-weight: 400;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.14;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+    top: 10vh;
+    text-align: justify;
+    width: 20vw;
+    left: -8vw;
+}
+.ui_ux_img_format{
+    position: relative;
+    top: 10vh;
+    width: 50vw;
+    height: 40vh;
+    border-radius: 2vw;
+}
+
+.ui_ux_dummy_bold{
+    position: relative;
+    font-family: Bely;
+    font-size: 4.5vw;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.31;
+    letter-spacing: normal;
+    text-align: center;
+    color: #343434;
+    width: 60vw;
+    left: 20vw;
+
+}
+.ui_ux_dummy_light{
+    position: relative;
+    font-family: Inter;
+    font-size: 2.2vw;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 4;
+    letter-spacing: normal;
+    text-align: left;
+    color: #717171;
+    text-align: center;
+    top: -8vh;
+}
+.contact_us_button{
+    position: relative;
+    background: #f1713f;
+    border: none;
+    outline: none;
+    left: 38vw;
+    height: 10vh;
+    width: 25vw;
+    top: -10vh;
+    padding-left: 2vw;
+    border-radius: 1vw;
+    font-family: AbhayaLibre;
+    font-size: 1.8vw;
+    font-weight: 100;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+
+}

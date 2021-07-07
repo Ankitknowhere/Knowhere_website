@@ -1,0 +1,84 @@
+.homepage_projects{
+    position: relative;
+    width: 100vw;
+    height: 110vh;
+}
+.we_worked_on{
+    position: relative;
+    font-family: Inter;
+    font-size: 3vw;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2;
+    letter-spacing: normal;
+    text-align: center;
+    color: #343434;
+    text-decoration: underline #f1713f;    
+}
+
+.carousel{
+    position: relative;
+    height: 90vh;
+}
+.carouseldiv{
+    position: relative;
+}
+.carousel_heading{
+    position: relative;
+    font-family: Bely;
+    font-size: 1.7vw;
+    left: 5vw;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2;
+    letter-spacing: normal;
+    text-align: left;
+    color: #343434;
+}
+.carousel_img_format{
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+.carousel_img{
+    position: relative;
+    height: 45vh;
+    width: 35vw;
+    left: 5vw;
+}
+.carousel_desc{
+    position: relative;
+    left: 5vw;
+    font-family: Inter;
+    font-size: 1.4vw;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.79;
+    letter-spacing: normal;
+    text-align: left;
+    color: #717171;
+    width: 35vw;
+}
+.caousel_button{
+    position: relative;
+    font-family: Inter;
+    font-size: 2vw;
+    font-weight: 800;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.67;
+    letter-spacing: normal;
+    text-align: left;
+    color: #f1713f;
+    background: none;
+    outline: none;
+    display: flex;
+    justify-content: left;
+    left: 5vw;
+    border: none;
+    cursor: pointer;
+    border-bottom: 1px solid #f1713f;
+}

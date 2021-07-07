@@ -1,0 +1,86 @@
+.header{
+    position: relative;
+    display: flex;
+    width: 100vw;
+    height: 20vh;
+    justify-content: space-between;
+}
+.logoheader{
+    position: relative;
+    width: 86px;
+    height: 89px;
+    margin: 0 23px 153px 129px;
+    object-fit: contain;
+    top: 5vh;
+}
+.menubuttonheader{
+    position: relative;
+    width: 57px;
+    height: 14px;
+    object-fit: contain;
+    top: 10vh;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.buttonheader{
+    position: relative;
+    width: 194px;
+    height: 70px;
+    margin: 9px 130px 163px 5px;
+    object-fit: contain;
+    background: none;
+    font-family: Bely;
+    font-size: 2vw;
+    font-weight: 100;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.27;
+    letter-spacing: normal;
+    text-align: center;
+    color: #222222;
+    top: 5vh;
+    border-radius: .5vw;
+}
+.menuitems{
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    background: #ffffff;   
+}
+.crossbuttonheader{
+    position: relative;
+    left: 5vw;
+    height: 10vh;
+    width: 10vh;
+    border-radius: 50vw;
+    font-weight: 500;
+    font-family: Inter;
+    cursor: pointer;
+}
+
+.menu_allbuttons{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+.menu_lists{
+    position: relative;
+    font-family: Bely;
+    font-size: 3vw;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.56;
+    letter-spacing: normal;
+    text-align: center;
+    color: #343434;
+    height: 15vh;
+    background: none;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+.menu_lists:hover{
+    text-decoration: underline;
+}
